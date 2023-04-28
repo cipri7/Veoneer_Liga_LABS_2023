@@ -1,3 +1,4 @@
+#Main Program
 from utils import ocr
 from utils import camera as cam
 from PIL import Image
