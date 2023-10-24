@@ -9,5 +9,4 @@
  Connecting all the components and SW will be interesting.
  More things to come!
 
- ...first try to push
 
